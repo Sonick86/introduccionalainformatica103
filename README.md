@@ -1,0 +1,2 @@
+# introduccionalainformatica103
+Esta asignatura está dirigida a estudiantes de diferentes carreras universitarias, excluyendo la Informática. Su orientación es teórico-conceptual sobre temas básicos de computación. Inicia con una panorámica de los sistemas en sentido general, continuando con la comprensión de los elementos fundamentales que componen todo sistema de información (computarizado y no computarizado).
